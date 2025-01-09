@@ -1,5 +1,3 @@
-import Link from "next/link";
-import { mock } from "node:test";
 
 const mockUrls = [
   "https://utfs.io/f/yrCRR6zqzBVUDn3xuKHvduOncLTUaysXeEf2S3F1mPbx5KWY",
